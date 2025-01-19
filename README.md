@@ -148,5 +148,5 @@ AstroBuddy is licensed under the MIT License. See `LICENSE` for more details.
 - NASA Open APIs for providing astronomical data.
 - The developers of Three.js and AR.js for their amazing tools.
 - All contributors to open-source libraries and frameworks used in this project.
--
+
 
