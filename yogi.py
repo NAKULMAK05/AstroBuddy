@@ -8,7 +8,7 @@ import google.generativeai as genai
 
 # Load Gemini API Key securely
 GEMINI_API_KEY = "AIzaSyCuxNNYWsTftrrd2uTJ97Z2vIrm1nzm74c"
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key=GEMINI_API_KEY) 
 
 def run_gemini_agent(messages: list, instructions: str) -> dict:
     """
