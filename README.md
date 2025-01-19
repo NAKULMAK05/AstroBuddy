@@ -1,7 +1,10 @@
 # AstroBuddy AI
 AstroBuddy AI is a revolutionary platform that combines the ancient wisdom of astrology with cutting-edge AI technology to provide personalized fitness plans, dream analysis, and astrological insights. By leveraging advanced AI models and AstraDB, AstroBuddy delivers a seamless and transformative user experience.
 <br/>
-visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE
+visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE <br/>
+<br/>
+Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
+
 ## Features
 ### 1. AI-Powered Insights
 - Generate personalized astrological insights based on the user’s birth details.
