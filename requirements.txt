@@ -1,1 +1,7 @@
-astrapy
+astrapy==1.5.2
+langchain==0.3.14
+langchain_google_genai==2.0.9
+plotly==5.23.0
+protobuf==5.29.3
+Requests==2.32.3
+streamlit==1.37.1
