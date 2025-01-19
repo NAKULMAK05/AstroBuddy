@@ -1,153 +1,152 @@
-AstroBuddy
+# AstroBuddy
 
-AstroBuddy is an interactive web application that provides users with celestial navigation, stargazing assistance, and astronomy-related information in real time. Whether you're an amateur astronomer or just a curious stargazer, AstroBuddy is your go-to companion for exploring the night sky.
+**AstroBuddy** is an interactive web application that provides users with celestial navigation, stargazing assistance, and astronomy-related information in real time. Whether you're an amateur astronomer or just a curious stargazer, AstroBuddy is your go-to companion for exploring the night sky.
 
-Features
+---
 
-Star Identification: Point your device at the night sky to identify stars, constellations, and planets in real-time.
+## Features
 
-AR Mode: Enables augmented reality-based navigation to overlay celestial objects on your device screen.
+- **Star Identification:** Point your device at the night sky to identify stars, constellations, and planets in real-time.
+- **AR Mode:** Enables augmented reality-based navigation to overlay celestial objects on your device screen.
+- **Celestial Events:** Displays information about upcoming celestial events like meteor showers, eclipses, and planetary alignments.
+- **Real-Time Tracking:** Track the current location of the International Space Station (ISS) and other celestial bodies.
+- **Location-Based Customization:** Uses your GPS location to provide personalized sky maps and relevant celestial data.
+- **Search and Explore:** Search for specific stars, planets, or constellations and get guided directions to locate them in the sky.
 
-Celestial Events: Displays information about upcoming celestial events like meteor showers, eclipses, and planetary alignments.
+---
 
-Real-Time Tracking: Track the current location of the International Space Station (ISS) and other celestial bodies.
-
-Location-Based Customization: Uses your GPS location to provide personalized sky maps and relevant celestial data.
-
-Search and Explore: Search for specific stars, planets, or constellations and get guided directions to locate them in the sky.
-
-How It Works
+## How It Works
 
 AstroBuddy leverages modern web technologies and APIs to provide real-time astronomy information and interactive features. Here is a breakdown of how it functions:
 
-User Location Access:
+1. **User Location Access:**
 
-Uses the Geolocation API to fetch the user's current latitude and longitude.
+   - Uses the Geolocation API to fetch the user's current latitude and longitude.
+   - Provides location-specific stargazing data and celestial maps.
 
-Provides location-specific stargazing data and celestial maps.
+2. **Sky Mapping:**
 
-Sky Mapping:
+   - Renders a dynamic sky map using libraries like `three.js` for 3D visualization.
+   - Combines astronomical data to display constellations, planets, and other celestial bodies in their real-time positions.
 
-Renders a dynamic sky map using libraries like three.js for 3D visualization.
+3. **AR Navigation:**
 
-Combines astronomical data to display constellations, planets, and other celestial bodies in their real-time positions.
+   - Integrates AR.js or WebXR to enable augmented reality-based celestial navigation.
+   - Displays overlays for celestial objects when viewed through the device camera.
 
-AR Navigation:
+4. **Celestial Data Fetching:**
 
-Integrates AR.js or WebXR to enable augmented reality-based celestial navigation.
+   - Uses APIs like NASA Open APIs, Stellarium API, or Skyfield for retrieving accurate astronomical data.
+   - Displays detailed information about stars, constellations, and planetary movements.
 
-Displays overlays for celestial objects when viewed through the device camera.
+5. **User Interaction:**
 
-Celestial Data Fetching:
+   - Provides an intuitive UI for selecting celestial objects and getting information.
+   - Allows users to search for specific objects or events and navigate to them using AR.
 
-Uses APIs like NASA Open APIs, Stellarium API, or Skyfield for retrieving accurate astronomical data.
+---
 
-Displays detailed information about stars, constellations, and planetary movements.
-
-User Interaction:
-
-Provides an intuitive UI for selecting celestial objects and getting information.
-
-Allows users to search for specific objects or events and navigate to them using AR.
-
-Required Libraries and Dependencies
+## Required Libraries and Dependencies
 
 AstroBuddy uses the following libraries and tools to deliver its features:
 
-Frontend:
+### Frontend:
 
-React.js: For building the user interface.
+- **React.js:** For building the user interface.
+- **Three.js:** For rendering the 3D celestial map.
+- **AR.js/WebXR:** For augmented reality integration.
 
-Three.js: For rendering the 3D celestial map.
+### Backend:
 
-AR.js/WebXR: For augmented reality integration.
+- **Node.js:** For server-side functionality.
+- **Express.js:** For API routing and middleware handling.
 
-Backend:
+### APIs:
 
-Node.js: For server-side functionality.
+- **Geolocation API:** To determine the user's location.
+- **NASA Open APIs:** For fetching astronomical data.
+- **Skyfield/Stellarium APIs:** For real-time celestial data.
 
-Express.js: For API routing and middleware handling.
+### Additional Libraries:
 
-APIs:
+- **Axios:** For making API requests.
+- **React-Leaflet:** For rendering maps (optional).
+- **Moment.js:** For handling date and time formats.
+- **Compass.js:** For real-time compass direction (if applicable).
 
-Geolocation API: To determine the user's location.
+---
 
-NASA Open APIs: For fetching astronomical data.
+## Installation
 
-Skyfield/Stellarium APIs: For real-time celestial data.
+1. Clone the repository:
 
-Additional Libraries:
+   ```bash
+   git clone https://github.com/yourusername/astrobuddy.git
+   ```
 
-Axios: For making API requests.
+2. Navigate to the project directory:
 
-React-Leaflet: For rendering maps (optional).
+   ```bash
+   cd astrobuddy
+   ```
 
-Moment.js: For handling date and time formats.
+3. Install the dependencies:
 
-Compass.js: For real-time compass direction (if applicable).
+   ```bash
+   npm install
+   ```
 
-You can refer the video fi=or detailed explaination : https://www.youtube.com/watch?v=RzIhGIcDukE
+4. Start the development server:
 
-Installation
+   ```bash
+   npm start
+   ```
 
-Clone the repository:
+5. Open your browser and navigate to `http://localhost:3000` to view the app.
 
-git clone https://github.com/yourusername/astrobuddy.git
+---
 
-Navigate to the project directory:
+## Usage
 
-cd astrobuddy
+1. **Enable Location Services:** Ensure location services are enabled on your device for accurate sky maps.
+2. **Use AR Mode:** Tap the "Enable AR" button to activate augmented reality and point your device at the sky to explore celestial objects.
+3. **Search for Celestial Objects:** Use the search bar to find specific stars, constellations, or planets.
+4. **View Celestial Events:** Check the events section for upcoming astronomical phenomena.
+5. **Track Real-Time Data:** Get live updates on the position of celestial bodies and events.
 
-Install the dependencies:
+---
 
-npm install
-
-Start the development server:
-
-npm start
-
-Open your browser and navigate to http://localhost:3000 to view the app.
-
-Usage
-
-Enable Location Services: Ensure location services are enabled on your device for accurate sky maps.
-
-Use AR Mode: Tap the "Enable AR" button to activate augmented reality and point your device at the sky to explore celestial objects.
-
-Search for Celestial Objects: Use the search bar to find specific stars, constellations, or planets.
-
-View Celestial Events: Check the events section for upcoming astronomical phenomena.
-
-Track Real-Time Data: Get live updates on the position of celestial bodies and events.
-
-Contributing
+## Contributing
 
 We welcome contributions to AstroBuddy! To contribute:
 
-Fork the repository.
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add feature description"
+   ```
+4. Push your changes:
+   ```bash
+   git push origin feature-name
+   ```
+5. Submit a pull request.
 
-Create a new branch:
+---
 
-git checkout -b feature-name
+## License
 
-Make your changes and commit them:
+AstroBuddy is licensed under the MIT License. See `LICENSE` for more details.
 
-git commit -m "Add feature description"
+---
 
-Push your changes:
+## Acknowledgments
 
-git push origin feature-name
+- NASA Open APIs for providing astronomical data.
+- The developers of Three.js and AR.js for their amazing tools.
+- All contributors to open-source libraries and frameworks used in this project.
+-
 
-Submit a pull request.
-
-License
-
-AstroBuddy is licensed under the MIT License. See LICENSE for more details.
-
-Acknowledgments
-
-NASA Open APIs for providing astronomical data.
-
-The developers of Three.js and AR.js for their amazing tools.
-
-All contributors to open-source libraries and frameworks used in this project
