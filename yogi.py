@@ -37,7 +37,7 @@ def chatbot_ui():
     st.sidebar.markdown("Ask any astrology-related question or seek advice from the bot.")
 
     # Display the uploaded image above the chatbot
-    st.sidebar.image(r"C:\Users\HP\Downloads\spiritual1\spiritual\.streamlit\img.jpg", caption="Yogi Bot", use_column_width=True)
+    st.sidebar.image(r"yogi.jpg", caption="Yogi Bot", use_column_width=True)
 
     # Initialize session state for chat history
     if "chat_history" not in st.session_state:

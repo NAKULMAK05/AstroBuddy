@@ -28,7 +28,7 @@ db = client.get_database_by_api_endpoint(
 print(f"Connected to Astra DB: {db.list_collection_names()}")
 
 # Base URL for the Flask API
-BASE_URL = "https://c854-35-221-226-143.ngrok-free.app"
+BASE_URL = "https://80f0-34-125-179-65.ngrok-free.app"
 
 # 1. Call to `/api/birth-chart` endpoint
 def get_birth_chart(birth_date, birth_time, birth_lat, birth_lon, phone_number):
