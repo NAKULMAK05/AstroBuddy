@@ -78,42 +78,6 @@ AstroBuddy uses the following libraries and tools to deliver its features:
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/NAKULMAK05/astrobuddy.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd astrobuddy
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-5. Open your browser and navigate to `http://localhost:3000` to view the app.
-
----
-
-## Usage
-
-1. **Enable Location Services:** Ensure location services are enabled on your device for accurate sky maps.
-2. **Use AR Mode:** Tap the "Enable AR" button to activate augmented reality and point your device at the sky to explore celestial objects.
-3. **Search for Celestial Objects:** Use the search bar to find specific stars, constellations, or planets.
-4. **View Celestial Events:** Check the events section for upcoming astronomical phenomena.
-5. **Track Real-Time Data:** Get live updates on the position of celestial bodies and events.
-
 ---
 
 ## Contributing
@@ -142,11 +106,4 @@ We welcome contributions to AstroBuddy! To contribute:
 AstroBuddy is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
-
-## Acknowledgments
-
-- NASA Open APIs for providing astronomical data.
-- The developers of Three.js and AR.js for their amazing tools.
-- All contributors to open-source libraries and frameworks used in this project.
-
 
