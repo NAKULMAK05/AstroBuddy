@@ -81,7 +81,7 @@ AstroBuddy uses the following libraries and tools to deliver its features:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/astrobuddy.git
+   git clone https://github.com/NAKULMAK05/astrobuddy.git
    ```
 
 2. Navigate to the project directory:
