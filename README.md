@@ -23,7 +23,7 @@ Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
 ### 5. Comprehensive Dream Analysis
 - Allow users to submit dreams for analysis.
 - Use AI to interpret the psychological and astrological meanings of dreams.
-## Workflow
+## Workflow 
 ### Step 1: Collect User Inputs
 1. **API Endpoint for User Data**
    - Accepts the following details: Birth Time, Birth Date, Birth Place (Latitude & Longitude).
