@@ -4,7 +4,7 @@ AstroBuddy AI is a revolutionary platform that combines the ancient wisdom of as
 visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE <br/>
 <br/>
 Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
-
+ 
 
 ## Features
 ### 1. AI-Powered Insights
