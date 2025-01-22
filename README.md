@@ -9,7 +9,7 @@ Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
 ## Features
 ### 1. AI-Powered Insights
 - Generate personalized astrological insights based on the user’s birth details. 
-- Identify life patterns, challenges, and provide remedies.
+- Identify life patterns, challenges, and provide remedies. 
 - Offer actionable recommendations tailored to the user’s astrological profile.
 ### 2. Yogi Bot Integration
 - Provide customized meditation and workout plans aligned with the user’s astrological traits and challenges.
