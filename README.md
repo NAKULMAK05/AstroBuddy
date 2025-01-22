@@ -20,7 +20,7 @@ Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
 ### 4. Secure Data Management
 - Store all user data and generated insights securely in AstraDB.
 - Enable efficient retrieval and future analysis of stored data.
-### 5. Comprehensive Dream Analysis
+### 5. Comprehensive Dream Analysis 
 - Allow users to submit dreams for analysis.
 - Use AI to interpret the psychological and astrological meanings of dreams.
 ## Workflow 
