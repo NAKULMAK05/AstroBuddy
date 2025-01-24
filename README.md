@@ -14,7 +14,7 @@ Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
 ### 2. Yogi Bot Integration
 - Provide customized meditation and workout plans aligned with the user’s astrological traits and challenges.
 - Perform dream analysis to uncover psychological and spiritual meanings.
-### 3. Interactive Visualizations
+### 3. Interactive Visualizations 
 - Generate and render detailed birth charts with graphical representations.
 - Display zodiac signs, house alignments, and degree positions in an intuitive format.
 ### 4. Secure Data Management
