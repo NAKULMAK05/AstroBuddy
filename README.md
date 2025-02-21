@@ -98,7 +98,6 @@ Check out the Deployed Link : https://astrobuddy.streamlit.app/ <br/>
    - Incorporate gamified elements to engage users in astrology and wellness journeys.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-## Contact
-For any questions or suggestions, feel free to contact us at support@astrobuddyai.com.
+
 ---
 AstroBuddy AI: Empowering lives through the fusion of astrology and technology.
