@@ -36,7 +36,7 @@ visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE 
 2. **Visualization**
    - Render the birth chart graphically.
 3. **Storage**
-   - Save the generated chart in AstraDB for future reference.
+   - Save the generated chart in AstraDB vector database for future reference.
 ### Step 3: AI Insight Generation
 1. **Retrieve Data**
    - Fetch the birth chart from AstraDB.
