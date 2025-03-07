@@ -5,8 +5,10 @@ import plotly.graph_objects as go
 import datetime
 import requests
 import google.generativeai as genai
+import pandas as pd
 
 # Load Gemini API Key securely
+# added more features
 GEMINI_API_KEY = "AIzaSyCuxNNYWsTftrrd2uTJ97Z2vIrm1nzm74c"
 genai.configure(api_key=GEMINI_API_KEY) 
 
