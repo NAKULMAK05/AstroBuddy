@@ -100,4 +100,4 @@ visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-AstroBuddy AI: Empowering lives through the fusion of astrology and technology.
+AstroBuddy AI: Empowering lives through the fusion of astrology and technology
