@@ -4,6 +4,7 @@ import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
 import pandas as pd
+import numpy as np
 
 
 llm = ChatGoogleGenerativeAI(
