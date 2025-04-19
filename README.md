@@ -86,6 +86,11 @@ visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE 
 - **Output:**
   ```json
   {"dream_meaning": "You seek freedom and wish to escape current limitations."}
+
+## Landing Page
+
+  ![Astro1](https://github.com/user-attachments/assets/dfef7f05-f83b-4b3b-8582-3e0cddc0c32a)
+
   ```
 ## Future Enhancements
 1. **Multi-language Support**
