@@ -88,10 +88,14 @@ visit YouTube Video for more info : https://www.youtube.com/watch?v=RzIhGIcDukE 
   {"dream_meaning": "You seek freedom and wish to escape current limitations."}
 
 ## Landing Page
+<img width="833" alt="AstroLand" src="https://github.com/user-attachments/assets/93416e1b-cffc-4380-88d0-a6d2c5361abf" />
 
-  ![Astro1](https://github.com/user-attachments/assets/dfef7f05-f83b-4b3b-8582-3e0cddc0c32a)
+## Houses Data with zodiac sign and degree position 
+<img width="843" alt="Astro 2" src="https://github.com/user-attachments/assets/217ffcb1-9b2a-4c9d-a069-82f07f033ffb" />
 
-  ```
+## 12-House Chart
+<img width="836" alt="Astro House chart" src="https://github.com/user-attachments/assets/b03c0ac0-d41f-4fbc-8984-604f4a818ef6" />
+
 ## Future Enhancements
 1. **Multi-language Support**
    - Broaden accessibility by introducing support for multiple languages.
