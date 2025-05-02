@@ -7,6 +7,7 @@ import requests
 import google.generativeai as genai
 import pandas as pd
 import numpy as np
+import sklearn from scikit-learn
 # Load Gemini API Key securely
 # added more features
 GEMINI_API_KEY = "AIzaSyCuxNNYWsTftrrd2uTJ97Z2vIrm1nzm74c"
