@@ -34,10 +34,7 @@ def run_gemini_agent(messages: list, instructions: str) -> dict:
     except Exception as e:
         return {"output": f"Error interacting with the Gemini API: {e}"}
 
-def calc():
-    a = 0
-    b = 10
-    print(a + b)
+
 
 def chatbot_ui():
     st.sidebar.header("🤖 Chat with Yogi Bot")
