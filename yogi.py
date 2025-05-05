@@ -10,9 +10,6 @@ import numpy as np
 
 
 
-def search():
-    for i in range(n):
-        j = i + 1
 # Load Gemini API Key securely
 # added more features
 GEMINI_API_KEY = "AIzaSyCuxNNYWsTftrrd2uTJ97Z2vIrm1nzm74c"
