@@ -3,8 +3,6 @@ import requests
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
-import numpy as np
-import pandas as pd
 
 llm = ChatGoogleGenerativeAI(
 model="gemini-1.0-pro",
